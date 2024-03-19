@@ -1,0 +1,14 @@
+.arena {
+  text-align: center;
+}
+
+.arena img {
+  width: 100%;
+  height: 400px;
+  object-fit: contain;
+}
+
+.mundo {
+  width: min(90%, 800px);
+  margin: auto;
+}
